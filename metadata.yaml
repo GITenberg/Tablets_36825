@@ -1,0 +1,33 @@
+_repo: Tablets_36825
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, Amos Bronson
+    aliases:
+    - Alcox, Amos Bronson
+    - Alcott, A. Bronson (Amos Bronson)
+    - Alcott, Bronson
+    - Alcocke, Amos Bronson
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '38495'
+    url: http://www.gutenberg.org/2009/agents/38495
+    wikipedia: https://en.wikipedia.org/wiki/Amos_Bronson_Alcott
+description: 'Book I. Practical: The garden; Recreation; Fellowship; Friendship; Culture;
+  Books; Counsels -- Book II: Speculative: Instrumentalities; Mind; Genesis; Metamorphoses.'
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36825'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+title: Tablets
+url: http://www.gutenberg.org/ebooks/36825
