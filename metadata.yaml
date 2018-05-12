@@ -18,6 +18,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Amos_Bronson_Alcott
 description: 'Book I. Practical: The garden; Recreation; Fellowship; Friendship; Culture;
   Books; Counsels -- Book II: Speculative: Instrumentalities; Mind; Genesis; Metamorphoses.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36825#Tablets
 gutenberg_issued: '2011-07-23'
 gutenberg_type: Text
 identifiers:
